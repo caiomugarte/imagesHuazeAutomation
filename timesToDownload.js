@@ -5,6 +5,18 @@ const timesToDownload =
         corinthians: {
             corinthiansIII_22_23: 'https://kakahuaze123.x.yupoo.com/albums/128430562?uid=1',
             corinthiansI_23_24: 'https://kakahuaze123.x.yupoo.com/albums/134878308?uid=1'
+        },
+        athletico_paranaense: {
+            athletico_paranaenseII_23_24: "https://kakahuaze123.x.yupoo.com/albums/133615110?uid=1",
+            athletico_paranaenseI_23_24: "https://kakahuaze123.x.yupoo.com/albums/133615136?uid=1"
+        },
+        bahia: {
+            bahiaII_23_24: "https://kakahuaze123.x.yupoo.com/albums/134878241?uid=1",
+            bahiaI_23_24: "https://kakahuaze123.x.yupoo.com/albums/134878234?uid=1"
+        },
+        botafogo: {
+            botafogoI_23_24: "https://kakahuaze123.x.yupoo.com/albums/132884245?uid=1",
+            botafogoII_21_22: "https://kakahuaze123.x.yupoo.com/albums/140548609?uid=1"
         }
     },
     brasileirao_serie_b: {
@@ -47,6 +59,19 @@ const timesToDownload =
             figueirenseI_23_24: "https://kakahuaze123.x.yupoo.com/albums/133179597?uid=1"
         }
     },
+    eredivise: {
+        ajax: {
+            ajaxII_23_24: "https://kakahuaze123.x.yupoo.com/albums/139188513?uid=1",
+            ajaxIII_21_22: "https://kakahuaze123.x.yupoo.com/albums/128382520?uid=1"
+        }
+    },
+    liga_portugal: {
+        benfica: {
+            benficaII_23_24: "https://kakahuaze123.x.yupoo.com/albums/140548306?uid=1",
+            benficaI_23_24: "https://kakahuaze123.x.yupoo.com/albums/136659881?uid=1",
+            benficaRetro_94_95: "https://kakahuaze123.x.yupoo.com/albums/128375539?uid=1"
+        }
+    },
     la_liga: {
         athleticBilbao:{
             athleticBilbaoI_23_24: "https://kakahuaze123.x.yupoo.com/albums/140191078?uid=1"
@@ -69,7 +94,8 @@ const timesToDownload =
             barcelonaRetro_17_18: "https://kakahuaze123.x.yupoo.com/albums/132884877?uid=1",
             barcelonaTreino_23_24: "https://kakahuaze123.x.yupoo.com/albums/135571081?uid=1",
             barcelonaII_23_24: "https://kakahuaze123.x.yupoo.com/albums/137259403?uid=1",
-            barcelonaIII_22_23: "https://kakahuaze123.x.yupoo.com/albums/128391962?uid=1"
+            barcelonaIII_22_23: "https://kakahuaze123.x.yupoo.com/albums/128391962?uid=1",
+            barcelonaI_retro_16_17: "https://kakahuaze123.x.yupoo.com/albums/132884835?uid=1"
         },
         celtaDeVigo:{
             celtaDeVigoII_22_23: "https://kakahuaze123.x.yupoo.com/albums/128432247?uid=1"
@@ -116,7 +142,9 @@ const timesToDownload =
             bayernRetro_10_11: "https://kakahuaze123.x.yupoo.com/albums/128374434?uid=1",
             bayernIII_22_23: "https://kakahuaze123.x.yupoo.com/albums/128391256?uid=1",
             bayernI_22_23: "https://kakahuaze123.x.yupoo.com/albums/128389122?uid=1",
-            bayernRetro_13_14: "https://kakahuaze123.x.yupoo.com/albums/128374131?uid=1"
+            bayernRetro_13_14: "https://kakahuaze123.x.yupoo.com/albums/128374131?uid=1",
+            bayernII_23_24: "https://kakahuaze123.x.yupoo.com/albums/134875127?uid=1",
+            bayernI_23_24: "https://kakahuaze123.x.yupoo.com/albums/136658683?uid=1"
         },
         borussiaDortmund: {
             borussiaDortmundRetro_12_13: "https://kakahuaze123.x.yupoo.com/albums/128371663?uid=1",
@@ -326,7 +354,9 @@ const timesToDownload =
             argentinaRetro_98: 'https://kakahuaze123.x.yupoo.com/albums/128370002?uid=1',
             argentinaRetro_94: 'https://kakahuaze123.x.yupoo.com/albums/128370047?uid=1',
             argentinaTreino_22_23: "https://kakahuaze123.x.yupoo.com/albums/128448664?uid=1",
-            argentinaRetro_78: "https://kakahuaze123.x.yupoo.com/albums/128368930?uid=1"
+            argentinaRetro_78: "https://kakahuaze123.x.yupoo.com/albums/128368930?uid=1",
+            argentinaI_24_25: "https://kakahuaze123.x.yupoo.com/albums/166065228?uid=1",
+            argentinaII_24_25: "https://minkang.x.yupoo.com/albums/160100934?uid=1"
         },
         mexico: {
             mexicoI_22_23: "https://kakahuaze123.x.yupoo.com/albums/128392732?uid=1",
@@ -364,11 +394,13 @@ const timesToDownload =
         alemanha: {
             alemanhaI22_23: 'https://kakahuaze123.x.yupoo.com/albums/128445282?uid=1',
             alemanhaI_20: "https://kakahuaze123.x.yupoo.com/albums/128368377?uid=1",
-            alemanhaII_20 :'https://kakahuaze123.x.yupoo.com/albums/128368697?uid=1',
             alemanhaRetro_14: 'https://kakahuaze123.x.yupoo.com/albums/128385416?uid=1',
             alemanhaRetro_98: 'https://kakahuaze123.x.yupoo.com/albums/128373063?uid=1',
             alemanhaRetro_92: "https://kakahuaze123.x.yupoo.com/albums/129297066?uid=1",
-            alemanhaRetro_06: "https://kakahuaze123.x.yupoo.com/albums/128383132?uid=1"
+            alemanhaRetro_06: "https://kakahuaze123.x.yupoo.com/albums/128383132?uid=1",
+            alemanhaI_24_25_player: "https://minkang.x.yupoo.com/albums/160288655?uid=1",
+            alemanhaII_20: "https://minkang.x.yupoo.com/albums/80789670?uid=1",
+            alemanhaI_24_25: "https://minkang.x.yupoo.com/albums/158652452?uid=1"
         },
         japao: {
             japaoI_18: "https://kakahuaze123.x.yupoo.com/albums/128383132?uid=1",
@@ -379,11 +411,8 @@ const timesToDownload =
         belgica: {
             belgicaIII_22_23: "https://kakahuaze123.x.yupoo.com/albums/128444936?uid=1",
             belgicaII_22_23:'https://kakahuaze123.x.yupoo.com/albums/128391264?uid=1',
-            belgicaI_22_23: "https://kakahuaze123.x.yupoo.com/albums/128445205?uid=1"
-        },
-        canada: {
-            canadaIII_22_23: "https://kakahuaze123.x.yupoo.com/albums/128445205?uid=1",
-            canadaII_22_23: 'https://kakahuaze123.x.yupoo.com/albums/128382325?uid=1'
+            belgicaI_22_23: "https://kakahuaze123.x.yupoo.com/albums/128445205?uid=1",
+            belgicaII_24_25_player: "https://minkang.x.yupoo.com/albums/160288656?uid=1"
         },
         croacia: {
             croaciaI_22_23: "https://kakahuaze123.x.yupoo.com/albums/128445675?uid=1",
@@ -398,14 +427,15 @@ const timesToDownload =
             brasilRetroII_10: "https://kakahuaze123.x.yupoo.com/albums/128432869?uid=1",
             brasilRetroI_91_93: "https://kakahuaze123.x.yupoo.com/albums/128391113?uid=1",
             brasilII_18: "https://kakahuaze123.x.yupoo.com/albums/128381103?uid=1",
-            brasilPoloPreta: "https://kakahuaze123.x.yupoo.com/albums/128383614?uid=1",
+            brasilPoloPreta: "https://kakahuaze123.x.yupoo.com/albums/128380604?uid=1",
             brasilI_23_24: "https://kakahuaze123.x.yupoo.com/albums/131903615?uid=1",
             brasilTreinoAzul_22_23: 'https://kakahuaze123.x.yupoo.com/albums/128437272?uid=1',
             brasilPoloDourada_22_23: "https://kakahuaze123.x.yupoo.com/albums/128392084?uid=1",
             brasilEdicaoEspecial_22_23:"https://kakahuaze123.x.yupoo.com/albums/128390804?uid=1",
             brasilTreinoPreta_22_23: "https://kakahuaze123.x.yupoo.com/albums/128445523?uid=1",
             brasilPoloVerde_23_24: "https://kakahuaze123.x.yupoo.com/albums/129656615?uid=1",
-            brasilII_22_23: "https://kakahuaze123.x.yupoo.com/albums/128435625?uid=1"
+            brasilII_22_23: "https://kakahuaze123.x.yupoo.com/albums/128435625?uid=1",
+            brasilIIRetro_2002: "https://kakahuaze123.x.yupoo.com/albums/128391410?uid=1"
         },
         portugal: {
             portugalI_22_23: "https://kakahuaze123.x.yupoo.com/albums/128390702?uid=1",
