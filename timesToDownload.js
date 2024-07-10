@@ -4,7 +4,16 @@ const timesToDownload =
     brasileirao_serie_a: {
         corinthians: {
             corinthiansIII_22_23: 'https://kakahuaze123.x.yupoo.com/albums/128430562?uid=1',
-            corinthiansI_23_24: 'https://kakahuaze123.x.yupoo.com/albums/134878308?uid=1'
+            corinthiansI_23_24: 'https://kakahuaze123.x.yupoo.com/albums/134878308?uid=1',
+            corinthiansII_23_24: "https://kakahuaze123.x.yupoo.com/albums/134877745?uid=1",
+            corinthiansI_23_24_torcedor: "https://kakahuaze123.x.yupoo.com/albums/134877761?uid=1",
+            corinthiansRetro_11: "https://kakahuaze123.x.yupoo.com/albums/134875399?uid=1",
+            corinthiansII_23_24_player: "https://kakahuaze123.x.yupoo.com/albums/134878269?uid=1",
+            corinthiansRetroAniversario100: "https://kakahuaze123.x.yupoo.com/albums/128430743?uid=1",
+            corinthiansTreino_22_23: "https://kakahuaze123.x.yupoo.com/albums/129297051?uid=1",
+            corinthiansRetro_2000: "https://kakahuaze123.x.yupoo.com/albums/139188629?uid=1",
+            corinthiansTreino23_24: "https://kakahuaze123.x.yupoo.com/albums/134671505?uid=1",
+            corinthiansIII_22_23: "https://kakahuaze123.x.yupoo.com/albums/128430562?uid=1"
         },
         athletico_paranaense: {
             athletico_paranaenseII_23_24: "https://kakahuaze123.x.yupoo.com/albums/133615110?uid=1",
@@ -17,6 +26,69 @@ const timesToDownload =
         botafogo: {
             botafogoI_23_24: "https://kakahuaze123.x.yupoo.com/albums/132884245?uid=1",
             botafogoII_21_22: "https://kakahuaze123.x.yupoo.com/albums/140548609?uid=1"
+        
+        },
+        flamengo: {
+            flamengoI_23_24: "https://kakahuaze123.x.yupoo.com/albums/129655321?uid=1",
+            flamengoRetro_03_04: "https://kakahuaze123.x.yupoo.com/albums/128393220?uid=1",
+            flamengoII_22_23: "https://kakahuaze123.x.yupoo.com/albums/128386445?uid=1",
+            flamengo2324Patrocionios: "https://kakahuaze123.x.yupoo.com/albums/129655561?uid=1",
+            flamengo2425Feminina: "https://minkang.x.yupoo.com/albums/154990463?uid=1"
+        },
+        fluminense: {
+            fluminenseI_23_24: "https://kakahuaze123.x.yupoo.com/albums/135572832?uid=1",
+            fluminenseII_23_24: "https://kakahuaze123.x.yupoo.com/albums/135571394?uid=1",
+            fluminenseRetro_02_03: "https://kakahuaze123.x.yupoo.com/albums/128392681?uid=1"
+        },
+        fortaleza: {
+            fortalezaI_23_24: "https://kakahuaze123.x.yupoo.com/albums/131060019?uid=1",
+            fortalezaII_22_23: "https://kakahuaze123.x.yupoo.com/albums/128386861?uid=1"
+        },
+        gremio: {
+            gremioI_23_24: "https://kakahuaze123.x.yupoo.com/albums/134878316?uid=1",
+            gremioRetro00: "https://kakahuaze123.x.yupoo.com/albums/128371548?uid=1",
+            gremioII_23_24: "https://kakahuaze123.x.yupoo.com/albums/130120207?uid=1"
+        },
+        internacinoal: {
+            internacionalI_23_24: "https://kakahuaze123.x.yupoo.com/albums/130120207?uid=1",
+            internacionalII_22_23: "https://kakahuaze123.x.yupoo.com/albums/128391596?uid=1",
+            internacionalPretaTreino_23_24: "https://kakahuaze123.x.yupoo.com/albums/133615347?uid=1"
+        },
+        palmeiras: {
+            palmeirasI_23_24: "https://kakahuaze123.x.yupoo.com/albums/133615347?uid=1",
+            palmeirasII_22_23: "https://kakahuaze123.x.yupoo.com/albums/128379286?uid=1",
+            palmeirasRetro_92_93: "https://kakahuaze123.x.yupoo.com/albums/128382771?uid=1",
+            palmeirasII_21_22: "https://kakahuaze123.x.yupoo.com/albums/128385524?uid=1",
+            palmeirasRetro96: "https://kakahuaze123.x.yupoo.com/albums/128391906?uid=1",
+
+        },
+        rbbragantino: {
+            rbbragantinoI_22_23: "https://kakahuaze123.x.yupoo.com/albums/128387367?uid=1",
+            rbbragantinoII_22_23: "https://kakahuaze123.x.yupoo.com/albums/128388465?uid=1"
+        },
+        santos: {
+            santosII_23_24: "https://kakahuaze123.x.yupoo.com/albums/134877420?uid=1",
+            santosRetro_13: "https://kakahuaze123.x.yupoo.com/albums/128387561?uid=1",
+            santosIIRetro_12_13: "https://kakahuaze123.x.yupoo.com/albums/128380675?uid=1",
+            santosII_22_23: "https://kakahuaze123.x.yupoo.com/albums/128444645?uid=1",
+            santos22_23_preta_edicao_limitada: "https://kakahuaze123.x.yupoo.com/albums/128392671?uid=1",
+            santos22_23_branca_edicao_limitada: "https://kakahuaze123.x.yupoo.com/albums/128392354?uid=1",
+            santosI_23_24_patrocinios: "https://kakahuaze123.x.yupoo.com/albums/134877437?uid=1",
+            santosRetro_93: "https://kakahuaze123.x.yupoo.com/albums/128381270?uid=1",
+        },
+        saoPaulo: {
+            saoPauloII_22_23: "https://kakahuaze123.x.yupoo.com/albums/128444705?uid=1",
+            saoPauloII_23_24: "https://kakahuaze123.x.yupoo.com/albums/136659905?uid=1",
+            saoPauloI_23_24: "https://kakahuaze123.x.yupoo.com/albums/133179523?uid=1",
+            saoPauloRetro_06: "https://kakahuaze123.x.yupoo.com/albums/128386826?uid=1",
+        },
+        vasco: {
+            vascoRetro_2000: "https://kakahuaze123.x.yupoo.com/albums/128391063?uid=1",
+            vascoRetroII_2000: "https://kakahuaze123.x.yupoo.com/albums/128385682?uid=1",
+            vascoI_23_24: "https://kakahuaze123.x.yupoo.com/albums/135569722?uid=1",
+            vasco_22_23_branca_special_edition: "https://kakahuaze123.x.yupoo.com/albums/128447283?uid=1",
+            vascoRetroI_2011: "https://kakahuaze123.x.yupoo.com/albums/128430287?uid=1",
+            
         }
     },
     brasileirao_serie_b: {
@@ -63,6 +135,20 @@ const timesToDownload =
         ajax: {
             ajaxII_23_24: "https://kakahuaze123.x.yupoo.com/albums/139188513?uid=1",
             ajaxIII_21_22: "https://kakahuaze123.x.yupoo.com/albums/128382520?uid=1"
+        },
+        feyenoord: {
+            feyenoordI_23_24: "https://kakahuaze123.x.yupoo.com/albums/140548226?uid=1"
+        },
+        psv: {
+            psvII_22_23: "https://kakahuaze123.x.yupoo.com/albums/128392302?uid=1"
+        }
+    },
+    ligue1: {
+        psg:{
+            psgII_22_23: "https://kakahuaze123.x.yupoo.com/albums/128391797?uid=1",
+            psgI_23_24: "https://kakahuaze123.x.yupoo.com/albums/139202082?uid=1",
+            psgII_23_24_player: "https://kakahuaze123.x.yupoo.com/albums/140548534?uid=1",
+            psgI_23_24_player: "https://kakahuaze123.x.yupoo.com/albums/134874738?uid=1"
         }
     },
     liga_portugal: {
@@ -70,6 +156,13 @@ const timesToDownload =
             benficaII_23_24: "https://kakahuaze123.x.yupoo.com/albums/140548306?uid=1",
             benficaI_23_24: "https://kakahuaze123.x.yupoo.com/albums/136659881?uid=1",
             benficaRetro_94_95: "https://kakahuaze123.x.yupoo.com/albums/128375539?uid=1"
+        },
+        porto: {
+            portoI_23_24: "https://kakahuaze123.x.yupoo.com/albums/140764311?uid=1",
+            portoII_23_24: "https://kakahuaze123.x.yupoo.com/albums/140190472?uid=1"
+        },
+        sporting: {
+            sportingI_23_24: "https://kakahuaze123.x.yupoo.com/albums/139188522?uid=1"
         }
     },
     la_liga: {
@@ -321,6 +414,9 @@ const timesToDownload =
         }
     },
     selecoes: {
+        usa: {
+            usaII_23_24 : "https://kakahuaze123.x.yupoo.com/albums/165404581?uid=1",
+        },
         qatar: {
             qatarI_23_24: "https://kakahuaze123.x.yupoo.com/albums/128444485?uid=1"
         },
@@ -384,7 +480,8 @@ const timesToDownload =
             espanhaI22_23: "https://kakahuaze123.x.yupoo.com/albums/128443680?uid=1",
             espanhaII_22_23: "https://kakahuaze123.x.yupoo.com/albums/128443710?uid=1",
             espanhaRetro_18: "https://kakahuaze123.x.yupoo.com/albums/128373538?uid=1",
-            espanhaRetroII_10: "https://kakahuaze123.x.yupoo.com/albums/128372497?uid=1"
+            espanhaRetroII_10: "https://kakahuaze123.x.yupoo.com/albums/128372497?uid=1",
+            espanhaRetro96: "https://kakahuaze123.x.yupoo.com/albums/128372792?uid=1"
         },
         costa_rica: {
             costa_ricaII_23_24: 'https://kakahuaze123.x.yupoo.com/albums/131061868?uid=1',
@@ -400,7 +497,8 @@ const timesToDownload =
             alemanhaRetro_06: "https://kakahuaze123.x.yupoo.com/albums/128383132?uid=1",
             alemanhaI_24_25_player: "https://minkang.x.yupoo.com/albums/160288655?uid=1",
             alemanhaII_20: "https://minkang.x.yupoo.com/albums/80789670?uid=1",
-            alemanhaI_24_25: "https://minkang.x.yupoo.com/albums/158652452?uid=1"
+            alemanhaI_24_25: "https://minkang.x.yupoo.com/albums/158652452?uid=1",
+            alemanhaI2425Jogador: "https://kakahuaze123.x.yupoo.com/albums/167633675?uid=1"
         },
         japao: {
             japaoI_18: "https://kakahuaze123.x.yupoo.com/albums/128383132?uid=1",
@@ -453,6 +551,9 @@ const timesToDownload =
         coreia_do_sul: {
             coreia_do_sulI_20_21: 'https://kakahuaze123.x.yupoo.com/albums/128389547?uid=1',
             coreia_do_sulII_20_21: "https://kakahuaze123.x.yupoo.com/albums/128384828?uid=1"
+        },
+        escocia: {
+            escociaI_23_24: "https://kakahuaze123.x.yupoo.com/albums/130119695?uid=1"
         }
     }
     
